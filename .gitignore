@@ -1,0 +1,20 @@
+# MS Word lock files & temporary files (Tập tin tạm và file khóa của Word)
+~$*.doc
+~$*.docx
+~$*.docm
+~$*.dot
+~$*.dotx
+~$*.dotm
+
+# MS Word documents (Tập tin Word)
+*.doc
+*.docx
+*.docm
+*.dot
+*.dotx
+*.dotm
+
+# Other temporary files (Các tập tin tạm khác)
+*.tmp
+*.bak
+~$*
